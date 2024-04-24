@@ -7,3 +7,13 @@ Christopher D. Manning, 144783904
 Chris Potts, 1741530
 Diyi Yang, 2022168
 Monica Lam, 39682108
+Junxian He, 6215698
+Graham Neubig, 1700325
+Yu Su, 1758652
+Xiang Yue, 145548079
+Yoon Kim, 38367242
+Songlin Yang, 50591392
+T. Zhang, 38144094
+Danqi Chen, 50536468
+Alexander M. Rush, 2531268
+Saining Xie, 1817030
