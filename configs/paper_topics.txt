@@ -16,6 +16,11 @@
  6. Studies 'scaling laws' in the context of neural networks. Scaling laws refer to the very clear power-law relationship between the size or computational power used to train a model and the performance of that model.
     - Relevant: theoretical or conceptual explanation behind scaling laws for language models.
     - Not relevant: papers that have experiments at different model scales (but do not explicitly fit a scaling law) or papers that mention scaling laws, but the scaling laws are not the central subject of the paper
+7. Investigates 'Long Context Modeling' for Large Language Models.
+    - Relevant: The studies about new architecture for long-context modelling, new data curation methods for that or evaluation methods for that.
+8. Show interesting papers on advanced multimodal language models.
+    - Relevant: New research focuses on unified multimodal models (text, image, video, sounds) with multimodal understanding abilities or generative abilities. 
+9. Papers related to improve the reasoning abilities for LLMs especially on math, code and planning.
 
  In suggesting papers to your friend, remember that he enjoys papers on statistical machine learning, and generative modeling in natural language processing.
  Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
