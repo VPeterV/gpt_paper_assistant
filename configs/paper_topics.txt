@@ -21,6 +21,10 @@
 8. Show interesting papers on advanced multimodal language models.
     - Relevant: New research focuses on unified multimodal models (text, image, video, sounds) with multimodal understanding abilities or generative abilities. 
 9. Papers related to improve the reasoning abilities for LLMs especially on math, code and planning.
+10.  Shows improvement on vision encoder or projector in multimodal language models.
+    - Relevant: papers that reduce inference cost or use high resolution images.
+11. Mechanistic interpretation of large language models or multimodal language models
+    - Relevant: using mechanistic methods or discover some patterns to improve models' performance.
 
  In suggesting papers to your friend, remember that he enjoys papers on statistical machine learning, and generative modeling in natural language processing.
  Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
